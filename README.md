@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Nick Glorioso" src="">
-</picture>
-
 ## Hello! I am Nick Glorioso
   I am an Electrical and Computer Engineering Undergraduate Student within the Colorado Mesa/CU Boulder partnership Program. 
   I am interested in all aspacts of electrical and software design, with a particular interest in 3D printing and modeling and consumer electronics.

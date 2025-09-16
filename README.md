@@ -5,13 +5,16 @@
 ## Current Projects
 + [Arduino Uno R3 Case](https://cad.onshape.com/documents/82eb14d19a9a1db8572452fe/w/edb46756e51d3c03629f9253/e/b6ab7804cc5f90b7e6258e41)
 <br>
+
 ## Past Projects
 + [EKG Signal Display GUI](https://github.com/dillong89/ECG_Signal_Display_GUI)
 + [ESP-32 communication using ESPNOW](https://github.com/dillong89/ESP32_Two_Way_Communication_With_Sleep)
 <br>
+
 ## Affiliations
 + IEEE, CMU & CU
 <br>
+
 ## Contact Information
 + nick@gloriosofamily.com
 

@@ -7,10 +7,9 @@
 ## Hello! I am Nick Glorioso
   I am an Electrical and Computer Engineering Undergraduate Student within the Colorado Mesa/CU Boulder partnership Program. 
   I am interested in all aspacts of electrical and software design, with a particular interest in 3D printing and modeling and consumer electronics.
-
 <br>
 ## Current Projects
-- [Arduino Uno R3 Case] (https://cad.onshape.com/documents/82eb14d19a9a1db8572452fe/w/edb46756e51d3c03629f9253/e/b6ab7804cc5f90b7e6258e41)
+- [Arduino Uno R3 Case](https://cad.onshape.com/documents/82eb14d19a9a1db8572452fe/w/edb46756e51d3c03629f9253/e/b6ab7804cc5f90b7e6258e41)
 <br>
 ## Active Repositories
 - [Probability]
